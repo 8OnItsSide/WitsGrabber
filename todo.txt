@@ -1,0 +1,7 @@
+Get NWU's HTMl 
+
+Make filenames windows friendly => remove quotation marks, ?, bla bla.
+
+Check why txt
+
+Check that it sees if pdf OR txt is already there
